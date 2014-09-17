@@ -1,4 +1,4 @@
-=== WWordpress VN oEmbed ===
+=== Wordpress VN oEmbed ===
 Contributors: nguyenvanduocit
 Tags: oEmbed, embed, music, player
 Donate link: http://laptrinh.senviet.org
@@ -34,7 +34,7 @@ Các định dạng hỗ trợ
 
 = Hướng dẫn code plugin =
 
-(THÊM OEMBED CHO MỘT SỐ TRANG NHẠC)[http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/]
+[THÊM OEMBED CHO MỘT SỐ TRANG NHẠC](http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/)
 
 == Screenshots ==
 
