@@ -29,6 +29,7 @@ Các định dạng hỗ trợ
     *   Video
 
 == Cộng đồng wordpress Việt Nam ==
+    *   (Sen Việt)[https://laptrinh.senviet.org]
     *   (Facebook page)[https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426]
     *   (Google plus)[https://plus.google.com/112246631672323028789?prsrc=5]
 
