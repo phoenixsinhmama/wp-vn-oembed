@@ -8,7 +8,8 @@ Tested up to: 4.0
 Tự động embed player của các trang nhạc Việt Nam khi bạn dán link vào bài viết
 
 == Description ==
-Cho phép bạn embed các trang nhạc ở Việt Nam dễ hơn. Chỉ cần chép link của các bài hát và dán vào nội dung bài viết, là ngay lập tức bài hát đó được embed.
+
+Cho phép bạn embed các trang nhạc ở Việt Nam dễ hơn. Chỉ cần chép link của các bài hát và dán vào nội dung bài viết, là ngay lập tức bài hát đó Được tự động embed, mà bạn không cần phải tự tay chép và dán mã embed như trước kia.
 
 1.  **Zing MP3** : http://mp3.zing.vn
 Các định dạng hỗ trợ
@@ -31,3 +32,10 @@ Các định dạng hỗ trợ
     *   Bài hát đơn
     *   Video
 
+= Hướng dẫn code plugin =
+
+(THÊM OEMBED CHO MỘT SỐ TRANG NHẠC)[http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/]
+
+== Screenshots ==
+
+1. Demo
