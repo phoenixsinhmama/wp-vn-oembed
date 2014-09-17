@@ -13,28 +13,29 @@ Cho phép bạn embed các trang nhạc ở Việt Nam dễ hơn. Chỉ cần ch
 
 1.  **Zing MP3** : http://mp3.zing.vn
 Các định dạng hỗ trợ
-
     *   Bài hát đơn
     *   Album
     *   Playlist
     *   Video, clip
-
 2.  **Nhạc Của Tui** : http://nhaccuatui.com
 Các định dạng hỗ trợ
-
     *   Bài hát đơn
     *   Video
     *   Album
-
 3.  **Nhạc số** : http://nhacso.net
 Các định dạng hỗ trợ
 
     *   Bài hát đơn
     *   Video
 
-= Hướng dẫn code plugin =
+== Cộng đồng wordpress Việt Nam ==
+    *   (Facebook page)[https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426]
+    *   (Google plus)[https://plus.google.com/112246631672323028789?prsrc=5]
 
-[THÊM OEMBED CHO MỘT SỐ TRANG NHẠC](http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/)
+= Dành cho nhà phát triển =
+
+**Hướng dẫn** : [THÊM OEMBED CHO MỘT SỐ TRANG NHẠC](http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/)
+**Github** : [Source code on Github](https://github.com/senviet/VN-oEmbed)
 
 == Screenshots ==
 
