@@ -35,8 +35,8 @@ Các định dạng hỗ trợ
 
 = Dành cho nhà phát triển =
 
-**Hướng dẫn** : [THÊM OEMBED CHO MỘT SỐ TRANG NHẠC](http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/)
-**Github** : [Source code on Github](https://github.com/senviet/VN-oEmbed)
+* **Hướng dẫn** : [THÊM OEMBED CHO MỘT SỐ TRANG NHẠC](http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/)
+* **Github** : [Source code on Github](https://github.com/senviet/VN-oEmbed)
 
 == Screenshots ==
 
@@ -47,6 +47,10 @@ Các định dạng hỗ trợ
 = 1.0.1 =
 * Change class name to fix some bug
 
-== Wordpress Việt Nam ==
+== Cộng đồng wordpress Việt Nam ==
 
-df
+Hãy tham gia cộng đồng wordpress Việt Nam để cùng chia sẻ kiến thức, kinh nghiệm về lập trình
+
+*   [Sen Việt](https://laptrinh.senviet.org/wordpress)
+*   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
+*   [Google plus](https://plus.google.com/112246631672323028789?prsrc=5)
