@@ -35,8 +35,8 @@ Các định dạng hỗ trợ
 
 = Dành cho nhà phát triển =
 
-**Hướng dẫn** : [THÊM OEMBED CHO MỘT SỐ TRANG NHẠC](http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/)
-**Github** : [Source code on Github](https://github.com/senviet/VN-oEmbed)
+** Hướng dẫn ** : [THÊM OEMBED CHO MỘT SỐ TRANG NHẠC](http://laptrinh.senviet.org/wordpress-plugin/wordpress-oembed-ho-tro-cho-cac-trang-nhac/)
+** Github ** : [Source code on Github](https://github.com/senviet/VN-oEmbed)
 
 == Screenshots ==
 
