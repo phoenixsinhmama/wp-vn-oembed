@@ -46,3 +46,7 @@ Các định dạng hỗ trợ
 
 = 1.0.1 =
 * Change class name to fix some bug
+
+== Wordpress Việt Nam ==
+
+df
