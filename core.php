@@ -1,7 +1,7 @@
 <?php
 require_once dirname(__FILE__) . '/EmbedRuler.php';
 
-class Wpos_Code
+class WpVNOembed_Code
 {
     private $rulers;
     private static $instance;
