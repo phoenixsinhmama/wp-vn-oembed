@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Wordpress VN oEmbed
-Version: 1.0.0
+Version: 1.0.1
 Description: Hỗ trợ oEmbed cho các website chia sẻ nhạc ở Việt Nam
 Author: Vô Minh
 Plugin URI: http://laptrinh.senviet.org

@@ -41,3 +41,8 @@ Các định dạng hỗ trợ
 == Screenshots ==
 
 1. Demo
+
+== Changelog ==
+
+= 1.0.1 =
+* Change class name to fix some bug
