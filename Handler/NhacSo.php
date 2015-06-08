@@ -17,7 +17,7 @@ namespace VN_OEmbed\Handler;
 
 class NhacSo extends Base{
 	public function __construct(){
-		parent::__construct('#https?://(www\.)?nhacso.net/(nghe-nhac|xem-video)/([a-zA-Z,\-,\d]+).([a-zA-Z,\d,=?]*).html#i');
+		parent::__construct('#https?://(www\.)?nhacso\.net/(nghe-nhac|xem-video)/([a-zA-Z,\-,\d]+)\.([a-zA-Z,\d,=?]*)\.html#i');
 	}
 	public function generateEmbedCode($matches, $attr, $url, $rawattr){
 		$embed = $url;

@@ -17,7 +17,7 @@ namespace VN_OEmbed\Handler;
 
 class Zing extends Base{
 	public function __construct(){
-		parent::__construct('#https?://(www\.)?mp3.zing.vn/(bai-hat|video-clip|album|playlist)/([a-zA-Z,\-]+)/([a-zA-Z,\d]*).html#i');
+		parent::__construct('#https?://(www\.)?mp3\.zing\.vn/(bai-hat|video-clip|album|playlist)/([a-zA-Z,\-]+)/([a-zA-Z,\d]*)\.html#i');
 	}
 	public function generateEmbedCode($matches, $attr, $url, $rawattr){
 		$embed = $url;
