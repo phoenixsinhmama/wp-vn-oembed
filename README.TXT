@@ -3,13 +3,13 @@ Contributors: nguyenvanduocit
 Tags: oEmbed, embed, music, player
 Donate link: http://laptrinh.senviet.org
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.2.2
 
-Tự động embed player của các trang nhạc Việt Nam khi bạn dán link vào bài viết
+Tự động chèn player của các trang nhạc Việt Nam khi bạn dán link vào bài viết.
 
 == Description ==
 
-Cho phép bạn embed các trang nhạc ở Việt Nam dễ hơn. Chỉ cần chép link của các bài hát và dán vào nội dung bài viết, là ngay lập tức bài hát đó Được tự động embed, mà bạn không cần phải tự tay chép và dán mã embed như trước kia.
+Cho phép bạn chèn player của các trang nhạc ở Việt Nam dễ hơn. Chỉ cần chép link của các bài hát và dán vào nội dung bài viết, là ngay lập tức bài hát đó Được tự động embed, mà bạn không cần phải tự tay chép và dán mã embed như trước kia.
 
 1.  **Zing MP3** : http://mp3.zing.vn
 Các định dạng hỗ trợ
@@ -24,11 +24,10 @@ Các định dạng hỗ trợ
     *   Album
 3.  **Nhạc số** : http://nhacso.net
 Các định dạng hỗ trợ
-
     *   Bài hát đơn
     *   Video
 
-= Cộng đồng wordpress Việt Nam =
+= Cộng đồng WordPress Việt Nam =
 *   [Sen Việt](https://laptrinh.senviet.org)
 *   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
 *   [Google plus](https://plus.google.com/112246631672323028789?prsrc=5)
@@ -44,12 +43,18 @@ Các định dạng hỗ trợ
 
 == Changelog ==
 
+= 1.1.0 =
+* Sửa lỗi không hiển thị một vài định dạng từ Nhạc Số, Cảm ơn thachpham92 đã report lỗi này
+* Hiện thực symfony Autoloader
+* Thêm nhiều hook mới
+* Loại bỏ scbFramework
+
 = 1.0.1 =
 * Change class name to fix some bug
 
-== Cộng đồng wordpress Việt Nam ==
+== Cộng đồng WordPress Việt Nam ==
 
-Hãy tham gia cộng đồng wordpress Việt Nam để cùng chia sẻ kiến thức, kinh nghiệm về lập trình
+Hãy tham gia cộng đồng WordPress Việt Nam để cùng chia sẻ kiến thức, kinh nghiệm về lập trình
 
 *   [Sen Việt](https://laptrinh.senviet.org/wordpress)
 *   [Facebook page](https://www.facebook.com/pages/Wordpress-Vi%E1%BB%87t-Nam/1531229807110426)
